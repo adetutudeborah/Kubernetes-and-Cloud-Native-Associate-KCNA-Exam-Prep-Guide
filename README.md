@@ -40,8 +40,9 @@ A guide to prepare you for the **KCNA (Kubernetes and Cloud Native Associate)** 
 - [Introduction to Linux LFS 101](https://trainingportal.linuxfoundation.org/courses/introduction-to-linux-lfs101)
 - [Introduction to Kubernetes LFS 158](https://training.linuxfoundation.org/training/introduction-to-kubernetes/?lid=axmt8lvbjbl8)
 
-### 🎓 Free Courses & Videos
+### 🎓 Other Courses 
 - Kubernetes Docs (https://kubernetes.io/docs/)
+- [Rishab Kumar Kubernetes and Cloud Native Associate (KCNA) Study Note](https://rishabkumar.com/notes/kubernetes-cloud-native-associate/)
 - 
 
 ### 📝 Practice Questions
