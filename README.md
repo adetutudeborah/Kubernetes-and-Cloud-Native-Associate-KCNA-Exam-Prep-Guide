@@ -11,8 +11,8 @@ A guide to prepare you for the **KCNA (Kubernetes and Cloud Native Associate)** 
 - **Offered by**: CNCF + Linux Foundation
 - **Format**: Online, proctored, multiple-choice exam
 - **Duration**: 90 minutes
-- **Number of Questions**: ~60
-- **Passing Score**: ~75% (not officially published)
+- **Number of Questions**: 60
+- **Passing Score**: 75% 
 - **Validity**: 2 years
 - **Certification Cost**: $250 (includes one free retake)
 
@@ -22,11 +22,11 @@ A guide to prepare you for the **KCNA (Kubernetes and Cloud Native Associate)** 
 
 | Domain # | Domain Name              | Weight  | Modules to be Covered                                                                |
 |----------|--------------------------|---------|---------------------------------------------------------------------------------------|
-| 1        | Kubernetes Fundamentals  | 46%    | Pods, Deployments, Services, ConfigMaps, YAML, kubectl basics                        |
-| 2        | Container Orchestration  | 22%    | Control Plane, Nodes, Scheduler, Kubelet, Kube-Proxy, Networking basics              |
-| 3        | Cloud Native Architecture| 16%    | Microservices, API Gateways, Service Mesh, Containers vs VMs                         |
-| 4        | Observability            | 8%     | Metrics, Logging, Tracing, Prometheus, Grafana                                       |
-| 5        | Cloud Native Application Delivery | 8% | CI/CD Basics, GitOps, Helm, Kustomize, Security scanning tools                        |
+| 1        | Kubernetes Fundamentals  | 46%    | Kubernetes Resources, Kubernetes Architecture, Kubernetes API, Containers, Scheduling       |
+| 2        | Container Orchestration  | 22%    | Container Orchestration Fundamentals, Runtime, Security, Networking, Service Mesh, Storage         |
+| 3        | Cloud Native Architecture | 16%    | Autoscaling, Serverless, Community and Governance, Roles and Personas, Open Standards        |
+| 4        | Cloud Native Observability | 8%  | Telemetry & Observability , Prometheus, Cost Management      |
+| 5        | Cloud Native Application Delivery | 8% | Application Delivery Fundamentals , GitOps, CI/CD      |
 
 ---
 
@@ -40,25 +40,20 @@ A guide to prepare you for the **KCNA (Kubernetes and Cloud Native Associate)** 
 - [Introduction to Linux LFS 101](https://trainingportal.linuxfoundation.org/courses/introduction-to-linux-lfs101)
 - [Introduction to Kubernetes LFS 158](https://training.linuxfoundation.org/training/introduction-to-kubernetes/?lid=axmt8lvbjbl8)
 
-### 🎓 Other Courses 
+### 🎓 Other Resources
 - Kubernetes Docs (https://kubernetes.io/docs/)
+- The Kubernetes Book by Nigel Poulton
 - [Rishab Kumar Kubernetes and Cloud Native Associate (KCNA) Study Note](https://rishabkumar.com/notes/kubernetes-cloud-native-associate/)
-- 
 
 ### 📝 Practice Questions
-- 
+- [Exam Topics](https://www.examtopics.com/exams/linux-foundation/kcna/view/?lid=emzel7g9dmtu)
+- [Tutorials Dojo](https://tutorialsdojo.com/kubernetes-and-cloud-native-associate-kcna-sample-exam-questions/?lid=vpjx8rzj9aqo)
+- [IT Exams](https://www.itexams.com/exam/KCNA?lid=37l32zmyiniw)
+- [Pass4Future](https://www.pass4future.com/questions/linux-foundation/kcna?lid=66tixm46fc15)
+- [VmExam](https://www.vmexam.com/linux-foundation/linux-foundation-kcna-certification-exam-sample-questions?lid=6dfje2but8ai)
 
 ### 📅 Study Planner Template
-- 🗓️ [Download my 4-Week Study Planner Template]()
-
-Use this planner to pace yourself across 4 weeks while covering all 5 domains.
-
----
-
-## 🧠 Exam Tips
-
-1. 
-2. 
+- 🗓️ [Download my Study Planner](https://docs.google.com/spreadsheets/d/1uWJx6hFL146xxKdpNjc1tK4njZsoWtVLyJKdBHI250o/copy?usp=sharing)
 
 ---
 
